@@ -40,6 +40,9 @@ DeviceFileEvents
 ```
 <img width="1212" alt="image" src="https://github.com/user-attachments/assets/71402e84-8767-44f8-908c-1805be31122d">
 
+<img width="1673" height="541" alt="Screenshot 2025-09-15 at 2 55 37 PM" src="https://github.com/user-attachments/assets/988e1485-b881-4b92-9d4f-e881fc0e1957" />
+
+
 ---
 
 ### 2. Searched the `DeviceProcessEvents` Table
